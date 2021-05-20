@@ -1,0 +1,7 @@
+footer {
+    background: #212529;
+    margin-top: 3vh;
+    position: fixed; 
+    width: 100%;
+    bottom: 0;
+}

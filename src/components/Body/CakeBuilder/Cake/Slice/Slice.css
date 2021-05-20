@@ -1,0 +1,37 @@
+.slice {
+    width: 200px;
+    height: 80px;
+    border-radius: 100%;
+    position: relative;
+    margin-bottom: -45px;
+    z-index: 3;
+}
+
+div.slice:first-of-type {
+    margin-bottom: 0px;
+}
+  
+.chocolate,
+.chocolate::after {
+    background: #b98160;
+}
+  
+.vanilla,
+.vanilla::after {
+    background: #fae8b6;
+}
+  
+.strawberry,
+.strawberry::after {
+    background: deeppink;
+}
+  
+.orange,
+.orange::after {
+    background: orange;
+}
+  
+.lemon,
+.lemon::after {
+    background: #5fd592;
+}

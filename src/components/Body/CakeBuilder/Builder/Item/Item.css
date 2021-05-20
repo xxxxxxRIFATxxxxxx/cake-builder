@@ -1,0 +1,7 @@
+.quantity::after {
+    content: ")";
+}
+  
+.quantity::before {
+    content: "(";
+}

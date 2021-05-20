@@ -1,0 +1,14 @@
+header {
+    position: sticky; 
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.nav-link:hover {
+    color: deeppink !important;
+}
+
+.navbrand {
+    text-decoration: none;
+}

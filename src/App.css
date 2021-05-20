@@ -1,38 +1,38 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+
+* {
+    font-family: 'Playball', cursive !important;
+    color: #F1F3F2 !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.pink {
+    color: deeppink !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.btn-danger {
+    background: deeppink !important;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.box-rounded {
+    border-radius: 40px !important;
 }
 
-.App-link {
-  color: #61dafb;
+.box-shadow {
+    box-shadow: 2px 2px 20px black !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.text-shadow {
+    text-shadow: 2px 2px 8px black !important;
+}
+
+.card-text {
+    text-align: justify !important;
+}
+
+.card-padding {
+    padding: 50px !important;
+}
+
+.center {
+    padding: 3vh 0 !important;
 }
