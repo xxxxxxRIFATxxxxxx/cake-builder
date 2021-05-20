@@ -36,3 +36,7 @@
 .center {
     padding: 3vh 0 !important;
 }
+
+.text-center-align {
+    text-align: center !important;
+}

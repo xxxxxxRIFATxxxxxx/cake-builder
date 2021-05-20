@@ -13,7 +13,7 @@ const Service = () => {
                         <FontAwesomeIcon icon={faBirthdayCake} size="10x" className="m-auto p-4" />
                         <div className="card-body text-center">
                             <h6 className="card-title fs-4 pink">Customize Cake</h6>
-                            <p className="card-text text-center">We offer you to make your own custom<br />cakes of
+                            <p className="card-text text-center-align">We offer you to make your own custom<br />cakes of
                                 different
                                 flavors with<br />reasonable prices</p>
                         </div>
@@ -24,7 +24,7 @@ const Service = () => {
                         <FontAwesomeIcon icon={faTruck} size="10x" className="m-auto p-4" />
                         <div className="card-body text-center">
                             <h6 className="card-title fs-4 pink">Delivery</h6>
-                            <p className="card-text text-center">We will deliver the cake to your door.<br />We will ensure
+                            <p className="card-text text-center-align">We will deliver the cake to your door.<br />We will ensure
                                 your food<br /> safety</p>
                         </div>
                     </div>
@@ -34,7 +34,7 @@ const Service = () => {
                         <FontAwesomeIcon icon={faSmileBeam} size="10x" className="m-auto p-4" />
                         <div className="card-body text-center">
                             <h6 className="card-title fs-4 pink">Best Quality</h6>
-                            <p className="card-text text-center">We only provide the qualityful cake with <br /> original
+                            <p className="card-text text-center-align">We only provide the qualityful cake with <br /> original
                                 cherry Our cake is <br /> good for health</p>
                         </div>
                     </div>
