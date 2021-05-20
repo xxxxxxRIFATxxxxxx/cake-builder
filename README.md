@@ -1,19 +1,19 @@
 # Set up the project by completing only 4 easy steps.
 Open your command prompt where you want to place the project and run the following command
 
-### `git clone https://github.com/xxxxxxRIFATxxxxxx/cake_builder.git`
 1st Step
+### `git clone https://github.com/xxxxxxRIFATxxxxxx/cake_builder.git`
 
-### `cd cake_builder`
 2nd Step
+### `cd cake_builder`
 
-### `yarn install`
 3rd Step
+### `yarn install`
 
-### `yarn start`
 4th Step
+### `yarn start`
 
 Now ppen [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Best Regards
+Best Regards \
 Md. Rifat Islam
