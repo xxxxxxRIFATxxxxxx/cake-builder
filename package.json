@@ -1,5 +1,5 @@
 {
-  "name": "cake_builder",
+  "name": "cake-builder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
